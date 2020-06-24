@@ -5,7 +5,7 @@
 ● Increased the scalability by using three AWS instances that acts as master, slave, and load balancer.  
 ● Worked in a 2-person team in UCI's CS122B project course.   
 Java, HTML, CSS, JavaScript, AJAX, MySQL, Tomcat, AWS, GCP.  
-*Code is available upon request  
+**Code is available upon request  
 
 ## Demo Videos
 Task 1: https://drive.google.com/file/d/1JmBZVrM6eN97TRkGPfaKt6zZfDNi3vAF/view
