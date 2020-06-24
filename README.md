@@ -1,11 +1,11 @@
 # Fabflix
-● A mock movie buying REST web app that also displays movie ratings, genres, stars.
-● Stored movie, rating, star, genres, and customer data in a MySQL database.
-● Developed a basic Android app that supports login and movie searches.
-● Increased the scalability by using three AWS instances that acts as master, slave, and load balancer.
-● Worked in a 2-person team in UCI's CS122B project course. 
-Java, HTML, CSS, JavaScript, AJAX, MySQL, Tomcat, AWS, GCP.
-*Code is available upon request
+● A mock movie buying REST web app that also displays movie ratings, genres, stars.  
+● Stored movie, rating, star, genres, and customer data in a MySQL database.  
+● Developed a basic Android app that supports login and movie searches.  
+● Increased the scalability by using three AWS instances that acts as master, slave, and load balancer.  
+● Worked in a 2-person team in UCI's CS122B project course.   
+Java, HTML, CSS, JavaScript, AJAX, MySQL, Tomcat, AWS, GCP.  
+*Code is available upon request  
 
 ## Demo Videos
 Task 1: https://drive.google.com/file/d/1JmBZVrM6eN97TRkGPfaKt6zZfDNi3vAF/view
