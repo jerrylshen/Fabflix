@@ -20,6 +20,7 @@ Task 5: https://drive.google.com/drive/folders/1FtIwDblJCTe5JgEfofrWoOY8J_yImDRd
 
 ## How to Deploy  
 Tomcat  
+We deployed Tomcat on an Ubuntu AWS instance  
 user: fabflix  
 password: password  
 start command: /home/ubuntu/tomcat/bin/startup.sh
